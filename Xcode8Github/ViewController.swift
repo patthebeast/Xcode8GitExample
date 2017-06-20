@@ -15,6 +15,7 @@ class ViewController: NSViewController {
 
         // Do any additional setup after loading the view.
         // additional comment
+        
     }
     override var representedObject: Any? {
         didSet {
